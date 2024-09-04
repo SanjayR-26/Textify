@@ -59,7 +59,7 @@ Ensure you have imported the necessary libraries in your Python script:
 ```python
 import cv2
 import numpy as np
-from text_overlay import TextOverlay  # Assuming the class is in a file named text_overlay.py
+from textify import TextOverlay  # Assuming the class is in a file named text_overlay.py
 ```
 
 ### Step 2: Load an Image
